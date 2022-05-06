@@ -1,6 +1,6 @@
 <style>
   .box{
-    width:100%;
+    display:block
   }
 </style>
 ### Hi there 👋
