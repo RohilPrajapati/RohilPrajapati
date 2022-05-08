@@ -10,6 +10,6 @@ Currently Working :
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
 
-[![GitHub stats]](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati)](https://github.com/anuraghazra/github-readme-stats)
