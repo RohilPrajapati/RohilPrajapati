@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer Application. I really enjoy using language and framework like Python, Django as well as in Javascript. 
+I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer Application. I really enjoy using language and framework like Django , Python. 
 
 Currently Working :
 - on College Projects (E-commerce) and [Quzier](https://github.com/RohilPrajapati/Quizer) coded in PHP,HTML,CSS,JS. 
