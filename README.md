@@ -7,7 +7,7 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 - Php
 - javascript
 
-### Preferred Framework and Library
+### Preferred Framework, Library and plugins
 - Django
 - Django REST Framework(drf) (djangorestframework)
 - Simple JWT (djangorestframework-simplejwt)
