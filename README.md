@@ -2,6 +2,9 @@
 ### Hi there 👋
 
 I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer Application. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Preferred lanaguge 
 - Python
 - Php
