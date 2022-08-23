@@ -3,7 +3,7 @@
 
 I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer Application. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Preferred lanaguge 
 - Python
@@ -26,3 +26,5 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true&theme=radical)
