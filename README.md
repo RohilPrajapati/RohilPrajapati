@@ -16,7 +16,7 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 - Simple JWT (djangorestframework-simplejwt)
 
 ## Currently Working :
-- on Django REST framework,Postgres SQL... i.e. Back-end developer(working on API endpoint working with serialziers, models, views and designing and developing database for systems)
+- on Django REST framework,Postgres SQL... i.e. Back-end developer(designing and developing api and database for systems)
 
 ### Projects
 - [Wosa:Pasa:](https://github.com/RohilPrajapati/Wosa-Pasa)
