@@ -23,6 +23,7 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
   E- commerce web app using php, html,css, js.
 - [Quizer](https://github.com/RohilPrajapati/Quizer)
   Multiple Choice Question game. Web app using php, html, js, css.
+- Hospital Mangement System 
 
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
