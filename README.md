@@ -13,7 +13,7 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 ### Preferred Framework, Library and plugins
 - Django
 - Django REST Framework(drf) (djangorestframework)
-- Quasar Framework (based Vue js Framework)
+- Quasar Framework
 
 ## Currently Working :
 - on Django REST framework,Postgres SQL... i.e. Back-end developer(designing and developing api and database for systems)
