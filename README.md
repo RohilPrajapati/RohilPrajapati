@@ -24,9 +24,10 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 - [Quizer](https://github.com/RohilPrajapati/Quizer)
   Multiple Choice Question game. Web app using php, html, js, css.
 - [Hospital Mangement System](https://hmsdemo.starternepal.com/)
-  - Project Contribution 
-  - design and develop the APIs for the project
-  - design and develop database models
+  - Role and Responsibility
+    - worked as backend developer   
+    - design and develop the APIs for the project
+    - design and develop database models
 
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
