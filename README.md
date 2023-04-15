@@ -16,18 +16,14 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 - Quasar Framework
 
 ## Currently Working :
-- on Django REST framework,Postgres SQL... i.e. Back-end developer(designing and developing api and database for systems)
+- as Back-end developer(design and develop the APIs)
 
 ### Projects
 - [Wosa:Pasa:](https://github.com/RohilPrajapati/Wosa-Pasa)
   E- commerce web app using php, html,css, js.
 - [Quizer](https://github.com/RohilPrajapati/Quizer)
   Multiple Choice Question game. Web app using php, html, js, css.
-- [Hospital Mangement System](https://hmsdemo.starternepal.com/)
-  - Role and Responsibility
-    - worked as backend developer   
-    - design and develop the APIs for the project
-    - design and develop database models
+  
 
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
