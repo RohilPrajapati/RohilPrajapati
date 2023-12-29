@@ -1,7 +1,10 @@
 
 ### Hi there 👋
 
-I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer Application. 
+# Rohil Prajapati
+
+Currently a Software Developer well experienced in designing and developing Web Application, API, with a solid foundation in programming languages such as Python, JavaScript. I have successfully delivered project in healthcare domain. With 1+ year of experience in backend/system application development in Python (Django).
+My expertise lies in designing and implementing efficient database structures, developing RESTful APIs, and integrating third-party services.
 
 ### Preferred lanaguge 
 - Python
@@ -13,7 +16,7 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 - Quasar Framework (vue.js-v2)
 
 ## Currently Working :
-- as Back-end developer(design and develop the APIs)
+- as Software developer (design and develop the Web Application, API)
 
 ### Projects
 - [Wosa:Pasa:](https://github.com/RohilPrajapati/Wosa-Pasa)
@@ -24,5 +27,5 @@ I'm Rohil Prajapati from Kathmandu,Nepal. And I'm pursuing Bachelor in Computer 
 
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/RohilPrajapati?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/RohilPrajapati?tab=repositories)<br>
 ![Rohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true&theme=dark)
