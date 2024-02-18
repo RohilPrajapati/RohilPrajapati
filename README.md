@@ -4,13 +4,9 @@ Currently a Software Developer well experienced in designing and developing Web 
 My expertise lies in designing and implementing efficient database structures, developing RESTful APIs, and integrating third-party services.
 
 ### Preferred lanaguge 
-- Python
+- Python(Django,DRF)
 - Javascript
 - Php
-
-### Preferred Framework, Library and plugins
-- Django
-- Quasar Framework (vue.js-v2)
 
 ## Currently Working :
 - as Software developer (design and develop the Web Application, API)
@@ -24,5 +20,9 @@ My expertise lies in designing and implementing efficient database structures, d
 
 You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilprajapati/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/RohilPrajapati?tab=repositories)<br>
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/RohilPrajapati?tab=repositories)
+<br>
 ![Rohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true&theme=dark)
