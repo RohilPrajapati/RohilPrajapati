@@ -24,5 +24,3 @@ You can also check me out me in [Linkedin](https://www.linkedin.com/in/rohilpraj
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact)](https://github.com/RohilPrajapati?tab=repositories)
-<br>
-![Rohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true&theme=dark)
