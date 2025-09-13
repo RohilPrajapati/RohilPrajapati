@@ -1,12 +1,10 @@
 # <div align="center">Rohil Prajapati</div>
 
-Currently a Software Developer well experienced in designing and developing Web Application, API, with a solid foundation in programming languages such as Python, JavaScript. I have successfully delivered project in healthcare domain. With 2+ year of experience in backend/system application development in Python (Django).
+Currently a Software Developer well experienced in designing and developing Web Application, API, with a solid foundation in programming languages such as Python, JavaScript. I have successfully delivered project in healthcare domain. With 3+ year of experience in backend/system application development in Python (Django).
 My expertise lies in designing and implementing efficient database structures, developing RESTful APIs, and integrating third-party services.
 
 ### Preferred lanaguge 
 - Python(Django,DRF)
-- Javascript
-- Php
 
 ## Currently Working :
 - as Software developer (design and develop the Web Application, API)
