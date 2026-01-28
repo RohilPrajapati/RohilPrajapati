@@ -32,7 +32,7 @@
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)](#)
 
 
-## 🚧 Currently Working On
+## 🎯 Focus Areas
 - 💻 **Backend Software Development** — building data-intensive applications
 - 🏗️ **System Design** — scalable architectures and message-driven systems
 
@@ -45,9 +45,14 @@
   Multiple Choice Question game. Web app using php, html, js, css.
   
 ### 📬 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/rohilprajapati/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rohilprajpati@gmail.com)
-
+<p> 
+  <a href="https://www.linkedin.com/in/rohilprajapati/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rohilprajpati@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ### 📊 Github Stats
 ![Rohil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true&theme=radical&count_private=true&hide_border=true)
