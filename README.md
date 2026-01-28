@@ -6,7 +6,7 @@
 💻 Software Developer | 🚀 Tech Enthusiast | 🌍 Exploring/Learning Everyday
 ### 👨‍💻  About Me 
 - 🔭 **Currently Working On:** building backend systems with **Django REST Framework**  
-- 🌱 **Learning:** Asynchronous Python with **FastAPI**,  and scalable system design   
+- 🌱 **Learning:** **FastAPI** for asynchronous Python APIs and scalable system design  
 - 💬 **Ask Me About:** System Design, backend architecture, and building data-intensive systems  
 - ⚡ **Fun Fact:** I love hiking, trekking, and sharing knowledge experiences 🌄
  
