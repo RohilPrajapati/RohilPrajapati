@@ -52,7 +52,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-### 📊 Github Stats
-![Rohil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohilPrajapati&show_icons=true&theme=radical&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohilPrajapati&layout=compact&theme=radical)](https://github.com/RohilPrajapati?tab=repositories)
